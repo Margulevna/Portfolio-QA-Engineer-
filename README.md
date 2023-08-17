@@ -6,7 +6,13 @@
 
 #### НАВЫКИ И ТЕХНОЛОГИИ:
 
-`Jira `, `qase.io,SQL`, `Postman`, `Swagger`, `Trello`,
+ - `Jira `
+   [https://youtu.be/1MfBwrvlciQ]
+   [https://youtu.be/ufacWyi24w4]
+- `qase.io`,
+  [https://youtu.be/xT9Dxk6vSso]
+  [https://youtu.be/dydaysHd4BQ]
+- `Postman` `Swagger`, `Trello`,
 `SoapUI`, `xCode`, `Charles`, `Git`, `Chrome DevTools`, `SQL`
 
 
