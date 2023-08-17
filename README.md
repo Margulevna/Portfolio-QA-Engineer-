@@ -7,7 +7,7 @@
 #### НАВЫКИ И ТЕХНОЛОГИИ:
 
 `Jira `, `qase.io,SQL`, `Postman`, `Swagger`, `Trello`,
-`SoapUI`, `xCode`, `Charles`, `Git`, `Chrome DevTools`
+`SoapUI`, `xCode`, `Charles`, `Git`, `Chrome DevTools`, `SQL`
 
 
 
